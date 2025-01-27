@@ -26,12 +26,7 @@
 ## 📲 Stay Updated  
 Follow the **Full Stack Web Development** channel on WhatsApp:  
 [Join Here](https://whatsapp.com/channel/0029Vb3Fo9a0gcfSwnqwFT25)  
-```
 
-
-
-
-```
 ## ✅ Roadmap to Mastery  
 
 ### ✅ Frontend Development (6 Months)  
